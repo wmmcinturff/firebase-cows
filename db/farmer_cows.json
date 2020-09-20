@@ -1,14 +1,19 @@
-{
-  "farmerCow1": {
-      "cowId": "cow1",
-      "farmerUid":"OwCoXLIcu1MxseZjbNF1sHmOVjy2"
-  },
-  "farmerCow2": {
-      "cowId": "cow2",
-      "farmerUid":"OwCoXLIcu1MxseZjbNF1sHmOVjy2"
-  },
-  "farmerCow3": {
-      "cowId": "cow3",
-      "farmerUid":"OwCoXLIcu1MxseZjbNF1sHmOVjy2"
-  }
-}
+    {
+        "farmerCow1": {
+            "cowId": "cow1",
+            "farmerUid": "A06GVOBrTNOc6scEZzPrOcij0Yu2"
+        },
+        "farmerCow2": {
+            "cowId": "cow2",
+            "farmerUid": "67890"
+        },
+        "farmerCow3": {
+            "cowId": "cow3",
+            "farmerUid": "A06GVOBrTNOc6scEZzPrOcij0Yu2"
+        },
+        "farmerCow4": {
+            "cowId": "cow3",
+            "farmerUid": "12345"
+        }
+    }
+
